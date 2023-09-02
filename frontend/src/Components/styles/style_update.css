@@ -1,0 +1,19 @@
+.update-box{
+    position: relative;
+    width: 60%;
+    background-position: center;
+    background-size: cover;
+   
+    
+  }
+  .update-form-box{
+    position: relative;
+    width: 100%;
+   background-position: center;
+   background-size: cover;
+  
+  }
+  .update
+  {
+   border: 0.1px solid #f9f8f6; 
+  }
